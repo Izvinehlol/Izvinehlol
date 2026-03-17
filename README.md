@@ -42,6 +42,13 @@
 <a href="mailto:vinicius.a.silva14@edu.senai.br">
   <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<img src="https://img.shields.io/badge/VirtualBox-21ABD1?style=for-the-badge&logo=virtualbox&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Flowgorithm-FF7F00?style=for-the-badge&logo=diagrams.net&logoColor=white" />
 
 <br><br>
 
