@@ -33,7 +33,7 @@
 
 ✧ *ੈ✩‧₊˚ —————— ˚₊‧✩ੈ* ✧
 
-### 🍭 𝙈𝙞𝙣𝙝𝙖𝙨 𝙍𝙚𝙙𝙚𝙨
+### 🍭 𝙈𝙚 𝘾𝙤𝙣𝙩𝙖𝙩𝙚
 
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-a-20bb313b1/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
