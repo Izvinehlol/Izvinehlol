@@ -21,7 +21,7 @@
 
 ### 🛠️ 𝙏𝙚𝙘𝙣𝙤𝙡𝙤𝙜𝙞𝙖𝙨 𝙚 𝙁𝙚𝙧𝙧𝙖𝙢𝙚𝙣𝙩𝙖𝙨
 
-<img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-C71585?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-7851A9?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-2D033B?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/VirtualBox-8A2BE2?style=for-the-badge&logo=virtualbox&logoColor=white" />
