@@ -7,7 +7,7 @@
 
 </div>
 
-###  ˚𝙎𝙤𝙗𝙧𝙚 𝙈𝙞𝙢˚
+###  ˚𝙎𝙤𝙗𝙧𝙚 𝙈𝙞𝙢  ༻ ˚₊‧✩ੈ*
 
 * 👾 **𝗜𝗱𝗮𝗱𝗲:** 16 anos.
 * 🎓 **𝗙𝗼𝗿𝗺𝗮𝗰̧𝗮̃𝗼:** Evoluindo em **Tecnologia da Informação** no SENAI.
