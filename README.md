@@ -1,35 +1,44 @@
 <div align="center">
-  <img src="https://c.tenor.com/7vYp10R_R_QAAAAd/chappell-roan-eyes-chappell-roan-luna-moth.gif" width="400" alt="Chappell Roan Aesthetic">
+  <img src="https://c.tenor.com/7vYp10R_R_QAAAAd/chappell-roan-eyes-chappell-roan-luna-moth.gif" width="500" style="border-radius: 15px;" alt="Chappell Roan Aesthetic">
 
-  <h1>💜 Olá, eu sou o Vinícius Alencar!</h1>
-  <p><i>16 anos | Desenvolvedor em Formação | Estudante de T.I no SENAI</i></p>
+  <br>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Izvinehlol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=a855f7&text_color=e9d5ff&icon_color=a855f7&bg_color=1a1b27"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izvinehlol&layout=compact&langs_count=7&theme=dracula&title_color=a855f7&text_color=e9d5ff&icon_color=a855f7&bg_color=1a1b27"/>
+  <h1>💜 Vinícius Alencar</h1>
+  <p align="center">
+    <b>16 anos | Estudante de T.I no SENAI | Enthusiast Developer</b>
+  </p>
+
+  <p align="center">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Izvinehlol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=a855f7&text_color=e9d5ff&icon_color=a855f7&bg_color=1a1b27&border_radius=10"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izvinehlol&layout=compact&langs_count=7&theme=dracula&title_color=a855f7&text_color=e9d5ff&icon_color=a855f7&bg_color=1a1b27&border_radius=10"/>
+  </p>
 </div>
 
 <img src="https://c.tenor.com/h5T274_i770AAAAd/animated-line.gif" width="100%">
 
 ### 🔮 Sobre Mim
 
-<table>
+<table align="center" border="0">
   <tr>
-    <td>
-      <ul>
-        <li>✨ **Idade:** 16 anos focados no futuro.</li>
-        <li>🎓 **Formação:** Estudante de **Tecnologia da Informação** no SENAI.</li>
-        <li>🌌 **Foco:** Criar soluções modernas com código limpo e design elegante.</li>
-        <li>⚡ **Vibe:** Apaixonado por aprender novas tecnologias e resolver desafios.</li>
-      </ul>
+    <td width="50%" valign="top">
+      <br>
+      ✨ <b>Perfil:</b> Jovem desenvolvedor apaixonado por tecnologia.<br><br>
+      🎓 <b>Educação:</b> Cursando Tecnologia da Informação no SENAI.<br><br>
+      🌌 <b>Objetivo:</b> Transformar conceitos complexos em interfaces bonitas e funcionais.<br><br>
+      ⚡ <b>Foco:</b> Aprendizado contínuo e evolução em stacks modernas.
+    </td>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/Status-Estudando-blueviolet?style=for-the-badge&logo=gitbook&logoColor=white" /><br><br>
+      <img src="https://img.shields.io/badge/Local-São_Paulo-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" />
     </td>
   </tr>
 </table>
 
 <img src="https://c.tenor.com/h5T274_i770AAAAd/animated-line.gif" width="100%">
 
-### 🛠️ Tecnologias e Ferramentas (Edição Roxa)
+### 🛠️ Tecnologias e Ferramentas
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-9370DB?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-6A5ACD?style=for-the-badge&logo=css3&logoColor=white" />
@@ -42,18 +51,5 @@
 
 ### 🌐 Vamos nos conectar?
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-a-20bb313b1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vinicius.a.silva14@edu.senai.br">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<br />
-
----
-<p align="center">
-  <i>"Hey Man" 💋✨</i>
-</p>
+<div align="center">
+  <a href="
