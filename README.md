@@ -7,19 +7,19 @@
 
 </div>
 
-### 🔮 𝙎𝙤𝙗𝙧𝙚 𝙈𝙞𝙢
+###  ˚𝙎𝙤𝙗𝙧𝙚 𝙈𝙞𝙢˚
 
-* 🎀 **𝑰𝒅𝒂𝒅𝒆:** 16 anos.
-* 🎓 **𝑭𝒐𝒓𝒎𝒂çã𝒐:** Evoluindo em **Tecnologia da Informação** no SENAI.
-* 🎨 **𝑯𝒐𝒃𝒃𝒚:** Eu desenho e sou apaixonado por arte visual.
-* 💸 **𝑻𝒓𝒂𝒃𝒂𝒍𝒉𝒐:** Faço **Commissions** (contato pelo Instagram).
+* 👾 **𝗜𝗱𝗮𝗱𝗲:** 16 anos.
+* 🎓 **𝗙𝗼𝗿𝗺𝗮𝗰̧𝗮̃𝗼:** Evoluindo em **Tecnologia da Informação** no SENAI.
+* 🎨 **𝗛𝗼𝗯𝗯𝘆:** Eu desenho e sou apaixonado por arte visual.
+* 💸 **𝗧𝗿𝗮𝗯𝗮𝗹𝗵𝗼:** Faço **Commissions** (contato pelo Instagram).
 
 <br>
 
 <div align="center">
 
 
-### 🛠️ 𝙏𝙚𝙘𝙣𝙤𝙡𝙤𝙜𝙞𝙖𝙨 𝙚 𝙁𝙚𝙧𝙧𝙖𝙢𝙚𝙣𝙩𝙖𝙨
+###  ˚𝙏𝙚𝙘𝙣𝙤𝙡𝙤𝙜𝙞𝙖𝙨 𝙚 𝙁𝙚𝙧𝙧𝙖𝙢𝙚𝙣𝙩𝙖𝙨˚
 
 <img src="https://img.shields.io/badge/JavaScript-C71585?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-7851A9?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -32,7 +32,7 @@
 
 ✧ *ੈ✩‧₊˚ —————— ˚₊‧✩ੈ* ✧
 
-### 🍭 𝙈𝙚 𝘾𝙤𝙣𝙩𝙖𝙩𝙚
+###  ˚𝙈𝙚 𝘾𝙤𝙣𝙩𝙖𝙩𝙚˚
 
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-a-20bb313b1/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
