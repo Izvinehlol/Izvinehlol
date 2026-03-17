@@ -15,6 +15,8 @@
 
 * 🎀 **𝑰𝒅𝒂𝒅𝒆:** 16 anos.
 * 🎓 **𝑭𝒐𝒓𝒎𝒂çã𝒐:** Evoluindo em **Tecnologia da Informação** no SENAI.
+* 🎨 **𝑯𝒐𝒃𝒃𝒚:** Eu desenho e sou apaixonado por arte visual.
+* 💸 **𝑻𝒓𝒂𝒃𝒂𝒍𝒉𝒐:** Faço **Commissions** (contato abaixo para orçamentos).
 
 <br>
 
@@ -38,6 +40,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;&nbsp;
+<a href="https://www.instagram.com/iz_vinehlol/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;&nbsp;
 <a href="mailto:vinicius.a.silva14@edu.senai.br">
   <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -45,6 +51,7 @@
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&italic=true&weight=500&size=22&pause=2000&color=D02090&center=true&vCenter=true&width=600&lines=Hi%2C+I+hope+you're+great...;I+think+it's+time+we+took+a+break." alt="Typing SVG Final" />
+
 <br>
 💋✨💄
 
