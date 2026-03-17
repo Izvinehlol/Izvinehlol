@@ -1,8 +1,8 @@
 <div align="center">
 
-# *ੈ✩‧₊˚ ༺ ✧ ༻ ˚₊‧✩ੈ*
+ *ੈ✩‧₊˚ ༺ ✧ ༻ ˚₊‧✩ੈ*
 # 💋 V I N Í C I U S · A L E N C A R
-# *ੈ✩‧₊˚ ༺ ✧ ༻ ˚₊‧✩ੈ*
+ *ੈ✩‧₊˚ ༺ ✧ ༻ ˚₊‧✩ੈ*
 
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=It's+fine%2C+it's+cool...;Vin%C3%ADcius+Alencar;Short+n'+Sweet+Vibes;Midwest+Princess+Energy" alt="Typing SVG" />
 
