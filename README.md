@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/7vYp10R_R_QAAAAd/chappell-roan-eyes-chappell-roan-luna-moth.gif" width="400" alt="Chappell Roan Aesthetic">
+  <img src="https://c.tenor.com/7vYp10R_R_QAAAAd/chappell-roan-eyes-chappell-roan-luna-moth.gif" width="400" alt="Chappell Roan Aesthetic">
 
   <h1>💜 Olá, eu sou o Vinícius Alencar!</h1>
   <p><i>16 anos | Desenvolvedor em Formação | Estudante de T.I no SENAI</i></p>
@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izvinehlol&layout=compact&langs_count=7&theme=dracula&title_color=a855f7&text_color=e9d5ff&icon_color=a855f7&bg_color=1a1b27"/>
 </div>
 
-<img src="https://media.tenor.com/h5T274_i770AAAAd/animated-line.gif" width="100%">
+<img src="https://c.tenor.com/h5T274_i770AAAAd/animated-line.gif" width="100%">
 
 ### 🔮 Sobre Mim
 
@@ -25,7 +25,7 @@
   </tr>
 </table>
 
-<img src="https://media.tenor.com/h5T274_i770AAAAd/animated-line.gif" width="100%">
+<img src="https://c.tenor.com/h5T274_i770AAAAd/animated-line.gif" width="100%">
 
 ### 🛠️ Tecnologias e Ferramentas (Edição Roxa)
 
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Git-7B68EE?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-<img src="https://media.tenor.com/h5T274_i770AAAAd/animated-line.gif" width="100%">
+<img src="https://c.tenor.com/h5T274_i770AAAAd/animated-line.gif" width="100%">
 
 ### 🌐 Vamos nos conectar?
 
