@@ -12,7 +12,7 @@
 * 🎀 **𝑰𝒅𝒂𝒅𝒆:** 16 anos.
 * 🎓 **𝑭𝒐𝒓𝒎𝒂çã𝒐:** Evoluindo em **Tecnologia da Informação** no SENAI.
 * 🎨 **𝑯𝒐𝒃𝒃𝒚:** Eu desenho e sou apaixonado por arte visual.
-* 💸 **𝑻𝒓𝒂𝒃𝒂𝒍𝒉𝒐:** Faço **Commissions** (contato abaixo para orçamentos).
+* 💸 **𝑻𝒓𝒂𝒃𝒂𝒍𝒉𝒐:** Faço **Commissions** (contato pelo Instagram).
 
 <br>
 
