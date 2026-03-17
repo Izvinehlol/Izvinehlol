@@ -21,13 +21,12 @@
 
 ### 🛠️ 𝙏𝙚𝙘𝙣𝙤𝙡𝙤𝙜𝙞𝙖𝙨 𝙚 𝙁𝙚𝙧𝙧𝙖𝙢𝙚𝙣𝙩𝙖𝙨
 
-<img src="https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/VS_Code-7851A9?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-2D033B?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/VirtualBox-21ABD1?style=for-the-badge&logo=virtualbox&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Flowgorithm-FF7F00?style=for-the-badge&logo=diagrams.net&logoColor=white" />
+<img src="https://img.shields.io/badge/VirtualBox-8A2BE2?style=for-the-badge&logo=virtualbox&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-C71585?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Flowgorithm-4B0082?style=for-the-badge&logo=diagrams.net&logoColor=white" />
 
 <br><br>
 
