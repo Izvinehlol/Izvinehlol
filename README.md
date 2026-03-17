@@ -22,7 +22,6 @@
 
 <div align="center">
 
-✧ *ੈ✩‧₊˚ —————— ˚₊‧✩ੈ* ✧
 
 ### 🛠️ 𝑻𝒆𝒄𝒏𝒐𝒍𝒐𝒈𝒊𝒂𝒔 𝒆 𝑭𝒆𝒓𝒓𝒂𝒎𝒆𝒏𝒕𝒂𝒔
 
@@ -50,6 +49,8 @@
 </a>
 
 <br><br>
+
+✧ *ੈ✩‧₊˚ —————— ˚₊‧✩ੈ* ✧
 
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&italic=true&weight=500&size=22&pause=2000&color=D02090&center=true&vCenter=true&width=600&lines=Hi%2C+I+hope+you're+great...;I+think+it's+time+we+took+a+break." alt="Typing SVG Final" />
 
