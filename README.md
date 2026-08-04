@@ -9,7 +9,7 @@
 
 ###  ˚𝙎𝙤𝙗𝙧𝙚 𝙈𝙞𝙢  ༻ ˚₊‧✩ੈ*
 
-* 👾 **𝗜𝗱𝗮𝗱𝗲:** 16 anos.
+* 👾 **𝗜𝗱𝗮𝗱𝗲:** 17 anos.
 * 🎓 **𝗙𝗼𝗿𝗺𝗮𝗰̧𝗮̃𝗼:** Evoluindo em **Tecnologia da Informação** no SENAI.
 * 🎨 **𝗛𝗼𝗯𝗯𝘆:** Eu desenho e também sou apaixonado por jogos.
 * 💸 **𝗧𝗿𝗮𝗯𝗮𝗹𝗵𝗼:** Faço **Commissions** (contato pelo Instagram).
